@@ -1,4 +1,8 @@
-# introduction
+# Introduction
 
 This is my first repo, look at me now :)
 
+
+## Author
+
+CompEng0001
